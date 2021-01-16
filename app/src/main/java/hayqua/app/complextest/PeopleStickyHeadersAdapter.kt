@@ -1,11 +1,11 @@
-package hayqua.stickyheadersrecyclerview.complextest
+package hayqua.app.complextest
 
 import android.view.View
 import android.view.ViewGroup
 import android.widget.LinearLayout
 import android.widget.Toast
-import hayqua.stickyheadersrecyclerview.R
-import hayqua.stickyheadersrecyclerview.StickyHeadersRecyclerAdapter
+import hayqua.app.R
+import hayqua.module.StickyHeadersRecyclerAdapter
 
 class PeopleStickyHeadersAdapter(
     val mainActivity2: MainActivity2,

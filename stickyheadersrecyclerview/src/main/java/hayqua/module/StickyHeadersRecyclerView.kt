@@ -1,4 +1,4 @@
-package hayqua.stickyheadersrecyclerview
+package hayqua.module
 
 import android.content.Context
 import android.support.v7.widget.LinearLayoutManager

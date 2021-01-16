@@ -1,8 +1,8 @@
-package hayqua.stickyheadersrecyclerview.complextest
+package hayqua.app.complextest
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
-import hayqua.stickyheadersrecyclerview.R
+import hayqua.app.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity2 : AppCompatActivity() {

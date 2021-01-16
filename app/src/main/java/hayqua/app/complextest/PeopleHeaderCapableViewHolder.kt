@@ -1,8 +1,8 @@
-package hayqua.stickyheadersrecyclerview.complextest
+package hayqua.app.complextest
 
 import android.widget.LinearLayout
 import android.widget.TextView
-import hayqua.stickyheadersrecyclerview.R
+import hayqua.app.R
 
 fun populateWithAPerson(itemView: LinearLayout, data: Person) {
     itemView.findViewById<TextView>(R.id.idAndNameTV).text = "${data.id}: ${data.name}"
